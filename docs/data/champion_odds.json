@@ -1,0 +1,182 @@
+[
+  {
+    "team": "Germany",
+    "p": 0.066,
+    "ci_low": 0.0522,
+    "ci_high": 0.0831,
+    "wins": 66,
+    "source": "WC2026_simulation (temporal logreg + Poisson goals)",
+    "n_sims": 1000
+  },
+  {
+    "team": "France",
+    "p": 0.055,
+    "ci_low": 0.0425,
+    "ci_high": 0.0709,
+    "wins": 55,
+    "source": "WC2026_simulation (temporal logreg + Poisson goals)",
+    "n_sims": 1000
+  },
+  {
+    "team": "Brazil",
+    "p": 0.049,
+    "ci_low": 0.0373,
+    "ci_high": 0.0642,
+    "wins": 49,
+    "source": "WC2026_simulation (temporal logreg + Poisson goals)",
+    "n_sims": 1000
+  },
+  {
+    "team": "Spain",
+    "p": 0.048,
+    "ci_low": 0.0364,
+    "ci_high": 0.0631,
+    "wins": 48,
+    "source": "WC2026_simulation (temporal logreg + Poisson goals)",
+    "n_sims": 1000
+  },
+  {
+    "team": "Argentina",
+    "p": 0.04,
+    "ci_low": 0.0295,
+    "ci_high": 0.054,
+    "wins": 40,
+    "source": "WC2026_simulation (temporal logreg + Poisson goals)",
+    "n_sims": 1000
+  },
+  {
+    "team": "Netherlands",
+    "p": 0.039,
+    "ci_low": 0.0287,
+    "ci_high": 0.0529,
+    "wins": 39,
+    "source": "WC2026_simulation (temporal logreg + Poisson goals)",
+    "n_sims": 1000
+  },
+  {
+    "team": "Ecuador",
+    "p": 0.038,
+    "ci_low": 0.0278,
+    "ci_high": 0.0517,
+    "wins": 38,
+    "source": "WC2026_simulation (temporal logreg + Poisson goals)",
+    "n_sims": 1000
+  },
+  {
+    "team": "Mexico",
+    "p": 0.035,
+    "ci_low": 0.0253,
+    "ci_high": 0.0483,
+    "wins": 35,
+    "source": "WC2026_simulation (temporal logreg + Poisson goals)",
+    "n_sims": 1000
+  },
+  {
+    "team": "Colombia",
+    "p": 0.033,
+    "ci_low": 0.0236,
+    "ci_high": 0.046,
+    "wins": 33,
+    "source": "WC2026_simulation (temporal logreg + Poisson goals)",
+    "n_sims": 1000
+  },
+  {
+    "team": "Portugal",
+    "p": 0.033,
+    "ci_low": 0.0236,
+    "ci_high": 0.046,
+    "wins": 33,
+    "source": "WC2026_simulation (temporal logreg + Poisson goals)",
+    "n_sims": 1000
+  },
+  {
+    "team": "Ivory Coast",
+    "p": 0.033,
+    "ci_low": 0.0236,
+    "ci_high": 0.046,
+    "wins": 33,
+    "source": "WC2026_simulation (temporal logreg + Poisson goals)",
+    "n_sims": 1000
+  },
+  {
+    "team": "England",
+    "p": 0.03,
+    "ci_low": 0.0211,
+    "ci_high": 0.0425,
+    "wins": 30,
+    "source": "WC2026_simulation (temporal logreg + Poisson goals)",
+    "n_sims": 1000
+  },
+  {
+    "team": "Japan",
+    "p": 0.029,
+    "ci_low": 0.0203,
+    "ci_high": 0.0413,
+    "wins": 29,
+    "source": "WC2026_simulation (temporal logreg + Poisson goals)",
+    "n_sims": 1000
+  },
+  {
+    "team": "Uruguay",
+    "p": 0.026,
+    "ci_low": 0.0178,
+    "ci_high": 0.0378,
+    "wins": 26,
+    "source": "WC2026_simulation (temporal logreg + Poisson goals)",
+    "n_sims": 1000
+  },
+  {
+    "team": "Paraguay",
+    "p": 0.026,
+    "ci_low": 0.0178,
+    "ci_high": 0.0378,
+    "wins": 26,
+    "source": "WC2026_simulation (temporal logreg + Poisson goals)",
+    "n_sims": 1000
+  },
+  {
+    "team": "Morocco",
+    "p": 0.025,
+    "ci_low": 0.017,
+    "ci_high": 0.0366,
+    "wins": 25,
+    "source": "WC2026_simulation (temporal logreg + Poisson goals)",
+    "n_sims": 1000
+  },
+  {
+    "team": "Czechia",
+    "p": 0.023,
+    "ci_low": 0.0154,
+    "ci_high": 0.0343,
+    "wins": 23,
+    "source": "WC2026_simulation (temporal logreg + Poisson goals)",
+    "n_sims": 1000
+  },
+  {
+    "team": "Senegal",
+    "p": 0.023,
+    "ci_low": 0.0154,
+    "ci_high": 0.0343,
+    "wins": 23,
+    "source": "WC2026_simulation (temporal logreg + Poisson goals)",
+    "n_sims": 1000
+  },
+  {
+    "team": "Canada",
+    "p": 0.021,
+    "ci_low": 0.0138,
+    "ci_high": 0.0319,
+    "wins": 21,
+    "source": "WC2026_simulation (temporal logreg + Poisson goals)",
+    "n_sims": 1000
+  },
+  {
+    "team": "South Korea",
+    "p": 0.021,
+    "ci_low": 0.0138,
+    "ci_high": 0.0319,
+    "wins": 21,
+    "source": "WC2026_simulation (temporal logreg + Poisson goals)",
+    "n_sims": 1000
+  }
+]

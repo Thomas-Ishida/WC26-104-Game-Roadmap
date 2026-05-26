@@ -1,0 +1,53 @@
+[
+  {
+    "notebook": "wc_prediction",
+    "model": "Logistic Regression",
+    "tier": "primary",
+    "accuracy": 0.6125,
+    "f1_macro": 0.4565,
+    "f1_draw": 0.0092,
+    "split": "train < 2020, test \u2265 2020",
+    "n_test": 2782
+  },
+  {
+    "notebook": "wc_prediction",
+    "model": "Random Forest",
+    "tier": "primary",
+    "accuracy": 0.5891,
+    "f1_macro": 0.4841,
+    "f1_draw": 0.1418,
+    "split": "train < 2020, test \u2265 2020",
+    "n_test": 2782
+  },
+  {
+    "notebook": "wc_prediction",
+    "model": "XGBoost",
+    "tier": "primary",
+    "accuracy": 0.5913,
+    "f1_macro": 0.4786,
+    "f1_draw": 0.1155,
+    "split": "train < 2020, test \u2265 2020",
+    "n_test": 2782,
+    "role": "Interactive site matchups & chalk bracket"
+  },
+  {
+    "notebook": "wc_prediction",
+    "model": "XGBoost",
+    "tier": "exploratory",
+    "accuracy": 0.596,
+    "f1_macro": 0.4742,
+    "split": "80/20 random (notebook benchmark)",
+    "note": "Not used for headline metrics \u2014 random split can inflate scores."
+  },
+  {
+    "notebook": "WC2026_simulation",
+    "model": "hgb",
+    "tier": "primary",
+    "accuracy": 0.5553,
+    "f1_macro": 0.4476,
+    "f1_draw": 0.1375,
+    "split": "test \u2265 2020",
+    "n_test": 2977,
+    "role": "Monte Carlo tournament (Poisson goals + FIFA bracket)"
+  }
+]

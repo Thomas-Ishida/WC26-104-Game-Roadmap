@@ -1,0 +1,37 @@
+[
+  {
+    "home": "Argentina",
+    "away": "Spain",
+    "p_home": 0.07,
+    "p_draw": 0.2715,
+    "p_away": 0.6585
+  },
+  {
+    "home": "Argentina",
+    "away": "Uruguay",
+    "p_home": 0.6722,
+    "p_draw": 0.1669,
+    "p_away": 0.161
+  },
+  {
+    "home": "Argentina",
+    "away": "Portugal",
+    "p_home": 0.2346,
+    "p_draw": 0.1752,
+    "p_away": 0.5902
+  },
+  {
+    "home": "Brazil",
+    "away": "France",
+    "p_home": 0.195,
+    "p_draw": 0.2034,
+    "p_away": 0.6016
+  },
+  {
+    "home": "Mexico",
+    "away": "Germany",
+    "p_home": 0.3729,
+    "p_draw": 0.4127,
+    "p_away": 0.2145
+  }
+]

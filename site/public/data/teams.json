@@ -1,0 +1,386 @@
+[
+  {
+    "team": "Algeria",
+    "elo": 1726.0,
+    "form": 0.8,
+    "gd": 2.0,
+    "squad": 76.65,
+    "slug": "algeria"
+  },
+  {
+    "team": "Argentina",
+    "elo": 2109.0,
+    "form": 0.8,
+    "gd": 1.6,
+    "squad": 82.65,
+    "slug": "argentina"
+  },
+  {
+    "team": "Australia",
+    "elo": 1774.0,
+    "form": 0.6,
+    "gd": 1.2,
+    "squad": 71.22,
+    "slug": "australia"
+  },
+  {
+    "team": "Austria",
+    "elo": 1855.0,
+    "form": 0.4,
+    "gd": -0.2,
+    "squad": 77.17,
+    "slug": "austria"
+  },
+  {
+    "team": "Belgium",
+    "elo": 1849.0,
+    "form": 0.8,
+    "gd": 3.0,
+    "squad": 81.17,
+    "slug": "belgium"
+  },
+  {
+    "team": "Bosnia and Herzegovina",
+    "elo": 1500.0,
+    "form": 0.0,
+    "gd": 0.0,
+    "squad": 60.0,
+    "slug": "bosnia-and-herzegovina"
+  },
+  {
+    "team": "Brazil",
+    "elo": 1976.0,
+    "form": 0.4,
+    "gd": 0.0,
+    "squad": 84.04,
+    "slug": "brazil"
+  },
+  {
+    "team": "Canada",
+    "elo": 1785.0,
+    "form": 0.6,
+    "gd": 1.8,
+    "squad": 73.61,
+    "slug": "canada"
+  },
+  {
+    "team": "Cape Verde",
+    "elo": 1500.0,
+    "form": 0.0,
+    "gd": 0.0,
+    "squad": 60.0,
+    "slug": "cape-verde"
+  },
+  {
+    "team": "Colombia",
+    "elo": 1981.0,
+    "form": 0.2,
+    "gd": 0.4,
+    "squad": 77.96,
+    "slug": "colombia"
+  },
+  {
+    "team": "Croatia",
+    "elo": 1917.0,
+    "form": 0.8,
+    "gd": 2.8,
+    "squad": 78.83,
+    "slug": "croatia"
+  },
+  {
+    "team": "Cura\u00e7ao",
+    "elo": 1467.0,
+    "form": 0.6,
+    "gd": 1.8,
+    "squad": 60.0,
+    "slug": "cura\u00e7ao"
+  },
+  {
+    "team": "Czechia",
+    "elo": 1500.0,
+    "form": 0.0,
+    "gd": 0.0,
+    "squad": 60.0,
+    "slug": "czechia"
+  },
+  {
+    "team": "Democratic Republic of the Congo",
+    "elo": 1500.0,
+    "form": 0.0,
+    "gd": 0.0,
+    "squad": 60.0,
+    "slug": "democratic-republic-of-the-congo"
+  },
+  {
+    "team": "Ecuador",
+    "elo": 1934.0,
+    "form": 0.2,
+    "gd": 0.2,
+    "squad": 74.04,
+    "slug": "ecuador"
+  },
+  {
+    "team": "Egypt",
+    "elo": 1591.0,
+    "form": 0.4,
+    "gd": -0.2,
+    "squad": 70.6,
+    "slug": "egypt"
+  },
+  {
+    "team": "England",
+    "elo": 2019.0,
+    "form": 1.0,
+    "gd": 3.0,
+    "squad": 83.96,
+    "slug": "england"
+  },
+  {
+    "team": "France",
+    "elo": 2067.0,
+    "form": 0.8,
+    "gd": 2.0,
+    "squad": 85.17,
+    "slug": "france"
+  },
+  {
+    "team": "Germany",
+    "elo": 1950.0,
+    "form": 0.4,
+    "gd": 0.2,
+    "squad": 83.83,
+    "slug": "germany"
+  },
+  {
+    "team": "Ghana",
+    "elo": 1499.0,
+    "form": 0.6,
+    "gd": 0.8,
+    "squad": 75.61,
+    "slug": "ghana"
+  },
+  {
+    "team": "Haiti",
+    "elo": 1542.0,
+    "form": 0.4,
+    "gd": 0.2,
+    "squad": 66.57,
+    "slug": "haiti"
+  },
+  {
+    "team": "Iran",
+    "elo": 1754.0,
+    "form": 0.4,
+    "gd": 0.6,
+    "squad": 71.0,
+    "slug": "iran"
+  },
+  {
+    "team": "Iraq",
+    "elo": 1582.0,
+    "form": 0.6,
+    "gd": 0.2,
+    "squad": 65.43,
+    "slug": "iraq"
+  },
+  {
+    "team": "Ivory Coast",
+    "elo": 1500.0,
+    "form": 0.0,
+    "gd": 0.0,
+    "squad": 60.0,
+    "slug": "ivory-coast"
+  },
+  {
+    "team": "Japan",
+    "elo": 1878.0,
+    "form": 0.6,
+    "gd": 1.6,
+    "squad": 77.17,
+    "slug": "japan"
+  },
+  {
+    "team": "Jordan",
+    "elo": 1687.0,
+    "form": 0.8,
+    "gd": 1.6,
+    "squad": 70.33,
+    "slug": "jordan"
+  },
+  {
+    "team": "Mexico",
+    "elo": 1813.0,
+    "form": 0.8,
+    "gd": 1.4,
+    "squad": 76.09,
+    "slug": "mexico"
+  },
+  {
+    "team": "Morocco",
+    "elo": 1830.0,
+    "form": 0.6,
+    "gd": 1.2,
+    "squad": 78.83,
+    "slug": "morocco"
+  },
+  {
+    "team": "Netherlands",
+    "elo": 1975.0,
+    "form": 0.6,
+    "gd": 1.8,
+    "squad": 82.61,
+    "slug": "netherlands"
+  },
+  {
+    "team": "New Zealand",
+    "elo": 1500.0,
+    "form": 0.0,
+    "gd": 0.0,
+    "squad": 60.0,
+    "slug": "new-zealand"
+  },
+  {
+    "team": "Norway",
+    "elo": 1870.0,
+    "form": 1.0,
+    "gd": 2.8,
+    "squad": 77.3,
+    "slug": "norway"
+  },
+  {
+    "team": "Panama",
+    "elo": 1729.0,
+    "form": 0.2,
+    "gd": 0.6,
+    "squad": 66.47,
+    "slug": "panama"
+  },
+  {
+    "team": "Paraguay",
+    "elo": 1844.0,
+    "form": 0.4,
+    "gd": 0.4,
+    "squad": 74.13,
+    "slug": "paraguay"
+  },
+  {
+    "team": "Portugal",
+    "elo": 2041.0,
+    "form": 0.6,
+    "gd": 1.4,
+    "squad": 83.22,
+    "slug": "portugal"
+  },
+  {
+    "team": "Qatar",
+    "elo": 1519.0,
+    "form": 0.2,
+    "gd": -0.6,
+    "squad": 69.35,
+    "slug": "qatar"
+  },
+  {
+    "team": "Saudi Arabia",
+    "elo": 1500.0,
+    "form": 0.0,
+    "gd": 0.0,
+    "squad": 60.0,
+    "slug": "saudi-arabia"
+  },
+  {
+    "team": "Scotland",
+    "elo": 1790.0,
+    "form": 0.6,
+    "gd": 0.8,
+    "squad": 75.91,
+    "slug": "scotland"
+  },
+  {
+    "team": "Senegal",
+    "elo": 1803.0,
+    "form": 1.0,
+    "gd": 2.0,
+    "squad": 77.52,
+    "slug": "senegal"
+  },
+  {
+    "team": "South Africa",
+    "elo": 1500.0,
+    "form": 0.0,
+    "gd": 0.0,
+    "squad": 60.0,
+    "slug": "south-africa"
+  },
+  {
+    "team": "South Korea",
+    "elo": 1500.0,
+    "form": 0.0,
+    "gd": 0.0,
+    "squad": 60.0,
+    "slug": "south-korea"
+  },
+  {
+    "team": "Spain",
+    "elo": 2171.0,
+    "form": 1.0,
+    "gd": 3.8,
+    "squad": 84.96,
+    "slug": "spain"
+  },
+  {
+    "team": "Sweden",
+    "elo": 1660.0,
+    "form": 0.2,
+    "gd": -0.8,
+    "squad": 77.57,
+    "slug": "sweden"
+  },
+  {
+    "team": "Switzerland",
+    "elo": 1897.0,
+    "form": 0.8,
+    "gd": 2.4,
+    "squad": 78.57,
+    "slug": "switzerland"
+  },
+  {
+    "team": "Tunisia",
+    "elo": 1641.0,
+    "form": 0.4,
+    "gd": 0.8,
+    "squad": 69.78,
+    "slug": "tunisia"
+  },
+  {
+    "team": "Turkey",
+    "elo": 1880.0,
+    "form": 0.8,
+    "gd": 2.2,
+    "squad": 78.43,
+    "slug": "turkey"
+  },
+  {
+    "team": "United States",
+    "elo": 1500.0,
+    "form": 0.0,
+    "gd": 0.0,
+    "squad": 60.0,
+    "slug": "united-states"
+  },
+  {
+    "team": "Uruguay",
+    "elo": 1907.0,
+    "form": 0.4,
+    "gd": 0.4,
+    "squad": 78.91,
+    "slug": "uruguay"
+  },
+  {
+    "team": "Uzbekistan",
+    "elo": 1735.0,
+    "form": 0.6,
+    "gd": 1.4,
+    "squad": 69.4,
+    "slug": "uzbekistan"
+  }
+]

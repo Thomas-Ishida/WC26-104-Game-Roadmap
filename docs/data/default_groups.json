@@ -1,0 +1,590 @@
+[
+  {
+    "group": "A",
+    "standings": [
+      {
+        "rank": 1,
+        "team": "Mexico",
+        "pts": 9,
+        "gd": 3,
+        "gf": 6,
+        "w": 3,
+        "d": 0,
+        "l": 0,
+        "elo": 1835.0
+      },
+      {
+        "rank": 2,
+        "team": "South Korea",
+        "pts": 6,
+        "gd": 1,
+        "gf": 4,
+        "w": 2,
+        "d": 0,
+        "l": 1,
+        "elo": 1784.0
+      },
+      {
+        "rank": 3,
+        "team": "Czechia",
+        "pts": 3,
+        "gd": -1,
+        "gf": 3,
+        "w": 1,
+        "d": 0,
+        "l": 2,
+        "elo": 1731.0
+      },
+      {
+        "rank": 4,
+        "team": "South Africa",
+        "pts": 0,
+        "gd": -3,
+        "gf": 1,
+        "w": 0,
+        "d": 0,
+        "l": 3,
+        "elo": 1531.0
+      }
+    ]
+  },
+  {
+    "group": "B",
+    "standings": [
+      {
+        "rank": 1,
+        "team": "Switzerland",
+        "pts": 9,
+        "gd": 3,
+        "gf": 5,
+        "w": 3,
+        "d": 0,
+        "l": 0,
+        "elo": 1897.0
+      },
+      {
+        "rank": 2,
+        "team": "Canada",
+        "pts": 6,
+        "gd": 1,
+        "gf": 4,
+        "w": 2,
+        "d": 0,
+        "l": 1,
+        "elo": 1802.0
+      },
+      {
+        "rank": 3,
+        "team": "Bosnia and Herzegovina",
+        "pts": 1,
+        "gd": -2,
+        "gf": 3,
+        "w": 0,
+        "d": 1,
+        "l": 2,
+        "elo": 1571.0
+      },
+      {
+        "rank": 4,
+        "team": "Qatar",
+        "pts": 1,
+        "gd": -2,
+        "gf": 3,
+        "w": 0,
+        "d": 1,
+        "l": 2,
+        "elo": 1427.0
+      }
+    ]
+  },
+  {
+    "group": "C",
+    "standings": [
+      {
+        "rank": 1,
+        "team": "Brazil",
+        "pts": 7,
+        "gd": 2,
+        "gf": 5,
+        "w": 2,
+        "d": 1,
+        "l": 0,
+        "elo": 1979.0
+      },
+      {
+        "rank": 2,
+        "team": "Morocco",
+        "pts": 5,
+        "gd": 1,
+        "gf": 4,
+        "w": 1,
+        "d": 2,
+        "l": 0,
+        "elo": 1830.0
+      },
+      {
+        "rank": 3,
+        "team": "Scotland",
+        "pts": 4,
+        "gd": 0,
+        "gf": 4,
+        "w": 1,
+        "d": 1,
+        "l": 1,
+        "elo": 1790.0
+      },
+      {
+        "rank": 4,
+        "team": "Haiti",
+        "pts": 0,
+        "gd": -3,
+        "gf": 3,
+        "w": 0,
+        "d": 0,
+        "l": 3,
+        "elo": 1542.0
+      }
+    ]
+  },
+  {
+    "group": "D",
+    "standings": [
+      {
+        "rank": 1,
+        "team": "Turkey",
+        "pts": 7,
+        "gd": 2,
+        "gf": 3,
+        "w": 2,
+        "d": 1,
+        "l": 0,
+        "elo": 1880.0
+      },
+      {
+        "rank": 2,
+        "team": "Paraguay",
+        "pts": 4,
+        "gd": 0,
+        "gf": 2,
+        "w": 1,
+        "d": 1,
+        "l": 1,
+        "elo": 1833.0
+      },
+      {
+        "rank": 3,
+        "team": "Australia",
+        "pts": 3,
+        "gd": -1,
+        "gf": 2,
+        "w": 1,
+        "d": 0,
+        "l": 2,
+        "elo": 1774.0
+      },
+      {
+        "rank": 4,
+        "team": "United States",
+        "pts": 3,
+        "gd": -1,
+        "gf": 2,
+        "w": 1,
+        "d": 0,
+        "l": 2,
+        "elo": 1747.0
+      }
+    ]
+  },
+  {
+    "group": "E",
+    "standings": [
+      {
+        "rank": 1,
+        "team": "Ecuador",
+        "pts": 6,
+        "gd": 1,
+        "gf": 4,
+        "w": 2,
+        "d": 0,
+        "l": 1,
+        "elo": 1933.0
+      },
+      {
+        "rank": 2,
+        "team": "Germany",
+        "pts": 6,
+        "gd": 1,
+        "gf": 4,
+        "w": 2,
+        "d": 0,
+        "l": 1,
+        "elo": 1910.0
+      },
+      {
+        "rank": 3,
+        "team": "Ivory Coast",
+        "pts": 4,
+        "gd": 0,
+        "gf": 2,
+        "w": 1,
+        "d": 1,
+        "l": 1,
+        "elo": 1760.0
+      },
+      {
+        "rank": 4,
+        "team": "Cura\u00e7ao",
+        "pts": 1,
+        "gd": -2,
+        "gf": 3,
+        "w": 0,
+        "d": 1,
+        "l": 2,
+        "elo": 1467.0
+      }
+    ]
+  },
+  {
+    "group": "F",
+    "standings": [
+      {
+        "rank": 1,
+        "team": "Sweden",
+        "pts": 6,
+        "gd": 1,
+        "gf": 3,
+        "w": 2,
+        "d": 0,
+        "l": 1,
+        "elo": 1660.0
+      },
+      {
+        "rank": 2,
+        "team": "Japan",
+        "pts": 4,
+        "gd": 0,
+        "gf": 3,
+        "w": 1,
+        "d": 1,
+        "l": 1,
+        "elo": 1878.0
+      },
+      {
+        "rank": 3,
+        "team": "Tunisia",
+        "pts": 4,
+        "gd": 0,
+        "gf": 2,
+        "w": 1,
+        "d": 1,
+        "l": 1,
+        "elo": 1641.0
+      },
+      {
+        "rank": 4,
+        "team": "Netherlands",
+        "pts": 2,
+        "gd": -1,
+        "gf": 2,
+        "w": 0,
+        "d": 2,
+        "l": 1,
+        "elo": 1959.0
+      }
+    ]
+  },
+  {
+    "group": "G",
+    "standings": [
+      {
+        "rank": 1,
+        "team": "Iran",
+        "pts": 9,
+        "gd": 3,
+        "gf": 4,
+        "w": 3,
+        "d": 0,
+        "l": 0,
+        "elo": 1754.0
+      },
+      {
+        "rank": 2,
+        "team": "Belgium",
+        "pts": 6,
+        "gd": 1,
+        "gf": 4,
+        "w": 2,
+        "d": 0,
+        "l": 1,
+        "elo": 1849.0
+      },
+      {
+        "rank": 3,
+        "team": "New Zealand",
+        "pts": 1,
+        "gd": -2,
+        "gf": 3,
+        "w": 0,
+        "d": 1,
+        "l": 2,
+        "elo": 1586.0
+      },
+      {
+        "rank": 4,
+        "team": "Egypt",
+        "pts": 1,
+        "gd": -2,
+        "gf": 2,
+        "w": 0,
+        "d": 1,
+        "l": 2,
+        "elo": 1591.0
+      }
+    ]
+  },
+  {
+    "group": "H",
+    "standings": [
+      {
+        "rank": 1,
+        "team": "Spain",
+        "pts": 9,
+        "gd": 3,
+        "gf": 6,
+        "w": 3,
+        "d": 0,
+        "l": 0,
+        "elo": 2171.0
+      },
+      {
+        "rank": 2,
+        "team": "Uruguay",
+        "pts": 4,
+        "gd": 0,
+        "gf": 4,
+        "w": 1,
+        "d": 1,
+        "l": 1,
+        "elo": 1890.0
+      },
+      {
+        "rank": 3,
+        "team": "Cape Verde",
+        "pts": 2,
+        "gd": -1,
+        "gf": 3,
+        "w": 0,
+        "d": 2,
+        "l": 1,
+        "elo": 1520.0
+      },
+      {
+        "rank": 4,
+        "team": "Saudi Arabia",
+        "pts": 1,
+        "gd": -2,
+        "gf": 3,
+        "w": 0,
+        "d": 1,
+        "l": 2,
+        "elo": 1612.0
+      }
+    ]
+  },
+  {
+    "group": "I",
+    "standings": [
+      {
+        "rank": 1,
+        "team": "France",
+        "pts": 9,
+        "gd": 3,
+        "gf": 6,
+        "w": 3,
+        "d": 0,
+        "l": 0,
+        "elo": 2062.0
+      },
+      {
+        "rank": 2,
+        "team": "Norway",
+        "pts": 6,
+        "gd": 1,
+        "gf": 4,
+        "w": 2,
+        "d": 0,
+        "l": 1,
+        "elo": 1922.0
+      },
+      {
+        "rank": 3,
+        "team": "Iraq",
+        "pts": 3,
+        "gd": -1,
+        "gf": 3,
+        "w": 1,
+        "d": 0,
+        "l": 2,
+        "elo": 1582.0
+      },
+      {
+        "rank": 4,
+        "team": "Senegal",
+        "pts": 0,
+        "gd": -3,
+        "gf": 1,
+        "w": 0,
+        "d": 0,
+        "l": 3,
+        "elo": 1803.0
+      }
+    ]
+  },
+  {
+    "group": "J",
+    "standings": [
+      {
+        "rank": 1,
+        "team": "Algeria",
+        "pts": 7,
+        "gd": 2,
+        "gf": 3,
+        "w": 2,
+        "d": 1,
+        "l": 0,
+        "elo": 1726.0
+      },
+      {
+        "rank": 2,
+        "team": "Argentina",
+        "pts": 4,
+        "gd": 0,
+        "gf": 3,
+        "w": 1,
+        "d": 1,
+        "l": 1,
+        "elo": 2113.0
+      },
+      {
+        "rank": 3,
+        "team": "Austria",
+        "pts": 4,
+        "gd": 0,
+        "gf": 3,
+        "w": 1,
+        "d": 1,
+        "l": 1,
+        "elo": 1818.0
+      },
+      {
+        "rank": 4,
+        "team": "Jordan",
+        "pts": 1,
+        "gd": -2,
+        "gf": 3,
+        "w": 0,
+        "d": 1,
+        "l": 2,
+        "elo": 1687.0
+      }
+    ]
+  },
+  {
+    "group": "K",
+    "standings": [
+      {
+        "rank": 1,
+        "team": "Portugal",
+        "pts": 9,
+        "gd": 3,
+        "gf": 6,
+        "w": 3,
+        "d": 0,
+        "l": 0,
+        "elo": 1976.0
+      },
+      {
+        "rank": 2,
+        "team": "Colombia",
+        "pts": 4,
+        "gd": 0,
+        "gf": 4,
+        "w": 1,
+        "d": 1,
+        "l": 1,
+        "elo": 1998.0
+      },
+      {
+        "rank": 3,
+        "team": "Democratic Republic of the Congo",
+        "pts": 3,
+        "gd": -1,
+        "gf": 3,
+        "w": 1,
+        "d": 0,
+        "l": 2,
+        "elo": 1616.0
+      },
+      {
+        "rank": 4,
+        "team": "Uzbekistan",
+        "pts": 1,
+        "gd": -2,
+        "gf": 2,
+        "w": 0,
+        "d": 1,
+        "l": 2,
+        "elo": 1735.0
+      }
+    ]
+  },
+  {
+    "group": "L",
+    "standings": [
+      {
+        "rank": 1,
+        "team": "England",
+        "pts": 7,
+        "gd": 2,
+        "gf": 5,
+        "w": 2,
+        "d": 1,
+        "l": 0,
+        "elo": 2042.0
+      },
+      {
+        "rank": 2,
+        "team": "Croatia",
+        "pts": 4,
+        "gd": 0,
+        "gf": 4,
+        "w": 1,
+        "d": 1,
+        "l": 1,
+        "elo": 1933.0
+      },
+      {
+        "rank": 3,
+        "team": "Ghana",
+        "pts": 3,
+        "gd": 0,
+        "gf": 3,
+        "w": 0,
+        "d": 3,
+        "l": 0,
+        "elo": 1509.0
+      },
+      {
+        "rank": 4,
+        "team": "Panama",
+        "pts": 1,
+        "gd": -2,
+        "gf": 3,
+        "w": 0,
+        "d": 1,
+        "l": 2,
+        "elo": 1742.0
+      }
+    ]
+  }
+]

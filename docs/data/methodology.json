@@ -1,0 +1,18 @@
+{
+  "what_this_is": [
+    "Supervised multiclass model (home / draw / away) on post-1998 competitive internationals.",
+    "2026 tournament tool: group fixtures with confirmed qualifiers, interactive bracket, Monte Carlo title odds."
+  ],
+  "limitations": [
+    "No true holdout for World Cup 2026 \u2014 forecasts are forward-looking scenarios, not backtested predictions.",
+    "Draw class is under-predicted; macro-F1 is a better headline metric than accuracy alone.",
+    "FC26 squad ratings are contemporary; they are not applied to historical training rows to avoid roster anachronisms.",
+    "Monte Carlo counts depend on simulation design (Poisson goals, FIFA bracket wiring, 1,000 runs).",
+    "Third-place slot assignment uses combinatorial backtracking \u2014 close to FIFA rules but not every edge case."
+  ],
+  "design_choices": [
+    "Primary evaluation: chronological splits (train \u2264 2016, val \u2264 2019, test \u2265 2020 for simulation pipeline; train < 2020 / test \u2265 2020 for capstone features).",
+    "Site matchups & chalk bracket: XGBoost with Elo, form, host advantage, squad quality.",
+    "Title odds chart: temporal classifier + trained Poisson goal model + full knockout tree."
+  ]
+}

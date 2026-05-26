@@ -1,0 +1,15 @@
+wc_env/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+*.egg-info/
+.venv/
+node_modules/
+site/dist/
+site/node_modules/
+# docs/ is the GitHub Pages build output — commit it for Pages deploy
+*.log
+.env
+scripts/models/*.pkl
+!scripts/models/.gitkeep

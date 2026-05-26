@@ -1,0 +1,278 @@
+{
+  "rounds": [
+    {
+      "round": "R32",
+      "matches": [
+        {
+          "id": 73,
+          "team_a": "South Korea",
+          "team_b": "Canada",
+          "winner": "Canada",
+          "p_win_a": 0.9117,
+          "p_win_b": 0.0883
+        },
+        {
+          "id": 76,
+          "team_a": "Brazil",
+          "team_b": "Japan",
+          "winner": "Brazil",
+          "p_win_a": 0.7711,
+          "p_win_b": 0.2289
+        },
+        {
+          "id": 74,
+          "team_a": "Ecuador",
+          "team_b": "Scotland",
+          "winner": "Scotland",
+          "p_win_a": 0.5743,
+          "p_win_b": 0.4257
+        },
+        {
+          "id": 75,
+          "team_a": "Sweden",
+          "team_b": "Morocco",
+          "winner": "Morocco",
+          "p_win_a": 0.7619,
+          "p_win_b": 0.2381
+        },
+        {
+          "id": 78,
+          "team_a": "Germany",
+          "team_b": "Norway",
+          "winner": "Germany",
+          "p_win_a": 0.7814,
+          "p_win_b": 0.2186
+        },
+        {
+          "id": 77,
+          "team_a": "France",
+          "team_b": "Tunisia",
+          "winner": "France",
+          "p_win_a": 0.992,
+          "p_win_b": 0.008
+        },
+        {
+          "id": 79,
+          "team_a": "Mexico",
+          "team_b": "Ivory Coast",
+          "winner": "Mexico",
+          "p_win_a": 0.9689,
+          "p_win_b": 0.0311
+        },
+        {
+          "id": 80,
+          "team_a": "England",
+          "team_b": "Democratic Republic of the Congo",
+          "winner": "England",
+          "p_win_a": 0.9911,
+          "p_win_b": 0.0089
+        },
+        {
+          "id": 82,
+          "team_a": "Iran",
+          "team_b": "Czechia",
+          "winner": "Iran",
+          "p_win_a": 0.902,
+          "p_win_b": 0.098
+        },
+        {
+          "id": 81,
+          "team_a": "Turkey",
+          "team_b": "Austria",
+          "winner": "Turkey",
+          "p_win_a": 0.6644,
+          "p_win_b": 0.3356
+        },
+        {
+          "id": 84,
+          "team_a": "Spain",
+          "team_b": "Argentina",
+          "winner": "Spain",
+          "p_win_a": 0.5822,
+          "p_win_b": 0.4178
+        },
+        {
+          "id": 83,
+          "team_a": "Colombia",
+          "team_b": "Croatia",
+          "winner": "Croatia",
+          "p_win_a": 0.6362,
+          "p_win_b": 0.3638
+        },
+        {
+          "id": 85,
+          "team_a": "Switzerland",
+          "team_b": "Iraq",
+          "winner": "Switzerland",
+          "p_win_a": 0.9201,
+          "p_win_b": 0.0799
+        },
+        {
+          "id": 86,
+          "team_a": "Algeria",
+          "team_b": "Uruguay",
+          "winner": "Uruguay",
+          "p_win_a": 0.5518,
+          "p_win_b": 0.4482
+        },
+        {
+          "id": 87,
+          "team_a": "Portugal",
+          "team_b": "Ghana",
+          "winner": "Portugal",
+          "p_win_a": 0.9347,
+          "p_win_b": 0.0653
+        },
+        {
+          "id": 88,
+          "team_a": "Paraguay",
+          "team_b": "Belgium",
+          "winner": "Belgium",
+          "p_win_a": 0.6363,
+          "p_win_b": 0.3637
+        }
+      ]
+    },
+    {
+      "round": "R16",
+      "matches": [
+        {
+          "id": 90,
+          "team_a": "Canada",
+          "team_b": "Morocco",
+          "winner": "Canada",
+          "p_win_a": 0.7316,
+          "p_win_b": 0.2684
+        },
+        {
+          "id": 89,
+          "team_a": "Scotland",
+          "team_b": "France",
+          "winner": "France",
+          "p_win_a": 0.8405,
+          "p_win_b": 0.1595
+        },
+        {
+          "id": 91,
+          "team_a": "Brazil",
+          "team_b": "Germany",
+          "winner": "Brazil",
+          "p_win_a": 0.5346,
+          "p_win_b": 0.4654
+        },
+        {
+          "id": 92,
+          "team_a": "Mexico",
+          "team_b": "England",
+          "winner": "Mexico",
+          "p_win_a": 0.5266,
+          "p_win_b": 0.4734
+        },
+        {
+          "id": 93,
+          "team_a": "Croatia",
+          "team_b": "Spain",
+          "winner": "Spain",
+          "p_win_a": 0.8099,
+          "p_win_b": 0.1901
+        },
+        {
+          "id": 94,
+          "team_a": "Turkey",
+          "team_b": "Iran",
+          "winner": "Turkey",
+          "p_win_a": 0.7608,
+          "p_win_b": 0.2392
+        },
+        {
+          "id": 95,
+          "team_a": "Uruguay",
+          "team_b": "Belgium",
+          "winner": "Belgium",
+          "p_win_a": 0.5942,
+          "p_win_b": 0.4058
+        },
+        {
+          "id": 96,
+          "team_a": "Switzerland",
+          "team_b": "Portugal",
+          "winner": "Portugal",
+          "p_win_a": 0.7092,
+          "p_win_b": 0.2908
+        }
+      ]
+    },
+    {
+      "round": "QF",
+      "matches": [
+        {
+          "id": 97,
+          "team_a": "France",
+          "team_b": "Canada",
+          "winner": "France",
+          "p_win_a": 0.8853,
+          "p_win_b": 0.1147
+        },
+        {
+          "id": 98,
+          "team_a": "Spain",
+          "team_b": "Turkey",
+          "winner": "Spain",
+          "p_win_a": 0.8482,
+          "p_win_b": 0.1518
+        },
+        {
+          "id": 99,
+          "team_a": "Brazil",
+          "team_b": "Mexico",
+          "winner": "Brazil",
+          "p_win_a": 0.6925,
+          "p_win_b": 0.3075
+        },
+        {
+          "id": 100,
+          "team_a": "Belgium",
+          "team_b": "Portugal",
+          "winner": "Portugal",
+          "p_win_a": 0.9264,
+          "p_win_b": 0.0736
+        }
+      ]
+    },
+    {
+      "round": "SF",
+      "matches": [
+        {
+          "id": 101,
+          "team_a": "France",
+          "team_b": "Spain",
+          "winner": "Spain",
+          "p_win_a": 0.7901,
+          "p_win_b": 0.2099
+        },
+        {
+          "id": 102,
+          "team_a": "Brazil",
+          "team_b": "Portugal",
+          "winner": "Portugal",
+          "p_win_a": 0.5796,
+          "p_win_b": 0.4204
+        }
+      ]
+    },
+    {
+      "round": "Final",
+      "matches": [
+        {
+          "id": 103,
+          "team_a": "Spain",
+          "team_b": "Portugal",
+          "winner": "Spain",
+          "p_win_a": 0.862,
+          "p_win_b": 0.138
+        }
+      ]
+    }
+  ],
+  "champion": "Spain"
+}

@@ -1,0 +1,54 @@
+{
+  "home_win_pct": 47.5,
+  "draw_pct": 22.5,
+  "away_win_pct": 30.0,
+  "squad_top10": [
+    {
+      "team": "France",
+      "squad_quality": 85.17
+    },
+    {
+      "team": "Spain",
+      "squad_quality": 84.96
+    },
+    {
+      "team": "Brazil",
+      "squad_quality": 84.04
+    },
+    {
+      "team": "England",
+      "squad_quality": 83.96
+    },
+    {
+      "team": "Germany",
+      "squad_quality": 83.83
+    },
+    {
+      "team": "Italy",
+      "squad_quality": 83.43
+    },
+    {
+      "team": "Portugal",
+      "squad_quality": 83.22
+    },
+    {
+      "team": "Argentina",
+      "squad_quality": 82.65
+    },
+    {
+      "team": "Netherlands",
+      "squad_quality": 82.61
+    },
+    {
+      "team": "Belgium",
+      "squad_quality": 81.17
+    }
+  ],
+  "chalk_champion": "Spain",
+  "notes": [
+    "Headline accuracy uses temporal holdout (test matches from 2020+), not random shuffle.",
+    "Draw outcomes remain the hardest class (low F1 vs home/away wins).",
+    "Squad Quality (FC26) is used for 2026 inference only \u2014 not merged into historical training rows.",
+    "Title odds are scenario counts from 1,000 bracket simulations, not calibrated betting probabilities."
+  ]
+}

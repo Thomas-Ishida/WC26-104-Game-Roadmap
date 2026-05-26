@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "DM Sans", system-ui, sans-serif;
+  --font-display: "Outfit", system-ui, sans-serif;
+  --color-pitch: #16a34a;
+  --color-pitch-dim: #14532d;
+  --color-surface: #0f172a;
+  --color-surface-elevated: #1e293b;
+  --color-gold: #fbbf24;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-slate-950 text-slate-100 font-sans antialiased;
+}
+
+.section-title {
+  @apply font-display text-3xl md:text-4xl font-semibold tracking-tight text-white;
+}
+
+.card {
+  @apply rounded-2xl border border-slate-800/80 bg-slate-900/60 backdrop-blur-sm p-6;
+}
+
+.page-wrap {
+  @apply mx-auto w-full max-w-[min(1680px,96vw)] px-5 sm:px-10 lg:px-14 xl:px-20;
+}
