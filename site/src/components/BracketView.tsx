@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
 import type { BracketRound } from "../types";
+import { TeamName } from "./TeamName";
 
 interface Props {
   rounds: BracketRound[];
@@ -12,7 +13,9 @@ export function BracketView({ rounds, champion, compact }: Props) {
     <div className={compact ? "space-y-6" : "space-y-10"}>
       <p className="text-center text-lg">
         Champion:{" "}
-        <span className="text-amber-400 font-display font-semibold">{champion}</span>
+        <span className="text-amber-400 font-display font-semibold">
+          <TeamName name={champion} />
+        </span>
       </p>
       <div className="overflow-x-auto pb-4">
         <div className="flex gap-6 min-w-max px-2">
@@ -41,7 +44,7 @@ export function BracketView({ rounds, champion, compact }: Props) {
                           : "text-slate-400"
                       }
                     >
-                      {m.team_a}
+                      <TeamName name={m.team_a} />
                       <span className="float-right text-xs text-slate-600">
                         {(m.p_win_a * 100).toFixed(0)}%
                       </span>
@@ -53,7 +56,7 @@ export function BracketView({ rounds, champion, compact }: Props) {
                           : "text-slate-400 mt-1"
                       }
                     >
-                      {m.team_b}
+                      <TeamName name={m.team_b} />
                       <span className="float-right text-xs text-slate-600">
                         {(m.p_win_b * 100).toFixed(0)}%
                       </span>
