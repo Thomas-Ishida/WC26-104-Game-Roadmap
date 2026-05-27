@@ -1,6 +1,8 @@
-import { useMemo, useState } from "react";
+import { useMemo, useState, type ReactNode } from "react";
 import type { MatrixEntry, MatchupProb, Team } from "../types";
 import { lookupProbs } from "../lib/bracket";
+import { formatTeam } from "../lib/flags";
+import { TeamName } from "./TeamName";
 
 interface Props {
   teams: Team[];
@@ -44,7 +46,7 @@ export function MatchupExplorer({ teams, presets, matrix }: Props) {
             >
               {names.map((n) => (
                 <option key={n} value={n}>
-                  {n}
+                  {formatTeam(n)}
                 </option>
               ))}
             </select>
@@ -58,7 +60,7 @@ export function MatchupExplorer({ teams, presets, matrix }: Props) {
             >
               {names.map((n) => (
                 <option key={n} value={n}>
-                  {n}
+                  {formatTeam(n)}
                 </option>
               ))}
             </select>
@@ -66,12 +68,9 @@ export function MatchupExplorer({ teams, presets, matrix }: Props) {
         </div>
 
         <div className="grid grid-cols-3 gap-4 mb-8 text-center">
-          {(["home", "draw", "away"] as const).map((k) => (
-            <div key={k} className="rounded-xl bg-slate-800/80 py-4">
-              <div className="text-2xl font-bold text-white">{pct[k]}%</div>
-              <div className="text-xs text-slate-500 uppercase mt-1">{k}</div>
-            </div>
-          ))}
+          <ProbCard label={<TeamName name={home} />} pct={pct.home} />
+          <ProbCard label="Draw" pct={pct.draw} />
+          <ProbCard label={<TeamName name={away} />} pct={pct.away} />
         </div>
 
         {hTeam && aTeam && (
@@ -93,12 +92,27 @@ export function MatchupExplorer({ teams, presets, matrix }: Props) {
               }}
               className="text-xs px-3 py-1.5 rounded-full border border-slate-700 hover:border-emerald-600 text-slate-400 hover:text-white transition-colors"
             >
-              {m.home} vs {m.away}
+              <TeamName name={m.home} /> vs <TeamName name={m.away} />
             </button>
           ))}
         </div>
       </div>
     </section>
+  );
+}
+
+function ProbCard({
+  label,
+  pct,
+}: {
+  label: ReactNode;
+  pct: string;
+}) {
+  return (
+    <div className="rounded-xl bg-slate-800/80 py-4 px-2">
+      <div className="text-2xl font-bold text-white">{pct}%</div>
+      <div className="text-xs text-slate-400 mt-1 leading-snug">{label}</div>
+    </div>
   );
 }
 

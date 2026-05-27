@@ -11,6 +11,7 @@ import {
   standingsToGroupBlocks,
 } from "../lib/bracket";
 import { BracketView } from "./BracketView";
+import { TeamName } from "./TeamName";
 
 interface Props {
   fixtures: Fixture[];
@@ -205,7 +206,7 @@ export function InteractiveLab({ fixtures, matrix, initialGroups }: Props) {
                         title={i < 2 ? "Click to swap with team below" : "Third place — toggle qualifier"}
                         onDoubleClick={() => i === 2 && toggleThird(r.team)}
                       >
-                        {r.team}
+                        <TeamName name={r.team} />
                       </button>
                     </td>
                     <td>{r.pts}</td>
@@ -237,7 +238,8 @@ export function InteractiveLab({ fixtures, matrix, initialGroups }: Props) {
                   : "border-slate-700 text-slate-500"
               }`}
             >
-              {r.team} ({groups.find((g) => g.standings.some((s) => s.team === r.team))?.group})
+              <TeamName name={r.team} /> (
+              {groups.find((g) => g.standings.some((s) => s.team === r.team))?.group})
             </button>
           ))}
         </div>

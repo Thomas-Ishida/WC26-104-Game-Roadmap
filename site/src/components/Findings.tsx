@@ -13,6 +13,7 @@ import type {
   Findings as FindingsT,
   ModelMetric,
 } from "../types";
+import { formatTeam } from "../lib/flags";
 
 interface Props {
   findings: FindingsT;
@@ -24,6 +25,7 @@ interface Props {
 export function Findings({ findings, championOdds, modelMetrics, asset }: Props) {
   const chartData = championOdds.slice(0, 12).map((c) => ({
     team: c.team,
+    teamLabel: formatTeam(c.team),
     pct: Math.round(c.p * 1000) / 10,
     err: c.ci_low != null && c.ci_high != null ? [(c.p - c.ci_low) * 100, (c.ci_high - c.p) * 100] : undefined,
   }));
@@ -106,8 +108,8 @@ export function Findings({ findings, championOdds, modelMetrics, asset }: Props)
               <XAxis type="number" tick={{ fill: "#94a3b8" }} unit="%" />
               <YAxis
                 type="category"
-                dataKey="team"
-                width={200}
+                dataKey="teamLabel"
+                width={220}
                 interval={0}
                 tick={{ fill: "#e2e8f0", fontSize: 13 }}
               />
